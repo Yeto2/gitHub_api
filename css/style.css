@@ -15,6 +15,21 @@
         top: -102px;
         z-index: 2;
 }
+@media (max-width: 425px) {
+
+    .imgEffect {
+        top: 144px !important;
+        width: 219px !important;
+        left: 95px;}
+
+        .bgimg {
+            width: 404px;
+            height: 518px;
+            left: -30px;
+            top: -83px;
+        } 
+    
+    }
 
 .bg::before {
     content: "";
